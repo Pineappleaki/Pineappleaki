@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @Pineappleaki
 - 👀 I’m interested in crypto
-- 🌱 I’m currently learning Python, R and eventually C++
-- 📫 How to reach me iniakiboudaif1@gmail.com
+- 🌱 I’m currently learning React, Typescript and the fundementals of building a project along the way
+- 📫 How to reach me iniakiboudiaf1@gmail.com
+
+I have a million and one ideas so just spam my Github with aall of them!
 
 <!---
 Pineappleaki/Pineappleaki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
